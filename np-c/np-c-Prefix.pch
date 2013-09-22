@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'np-c' target in the 'np-c' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
